@@ -1,4 +1,4 @@
-General software engineering and computer science articles. For my web scraping, data, and AI writing, see [published-blogs](https://github.com/triposat/published-blogs).
+General software and computer science articles I've written. My web scraping, data, and AI work is in [published-blogs](https://github.com/triposat/published-blogs).
 
 ## Built In
 - [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
@@ -94,4 +94,4 @@ General software engineering and computer science articles. For my web scraping,
 
 ---
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/triposat/).
+Find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
