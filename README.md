@@ -1,4 +1,4 @@
-General software and computer science articles I've written. My web scraping, data, and AI work is in [published-blogs](https://github.com/triposat/published-blogs).
+Articles on software engineering and computer science. Current work is in [published-blogs](https://github.com/triposat/published-blogs).
 
 ## Built In
 - [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
