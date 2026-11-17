@@ -94,4 +94,4 @@ Articles on software engineering and computer science. Current work is in [publi
 
 ---
 
-Find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
+Message me on [LinkedIn](https://www.linkedin.com/in/triposat/).
